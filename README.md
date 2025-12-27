@@ -73,9 +73,11 @@ Built with a focus on performance and zero dependencies.
 
 | **Light Mode Dashboard** | **Dark Mode Analytics** |
 |:---:|:---:|
-| <img src="https://via.placeholder.com/600x350.png?text=Light+Mode+UI" alt="Light Mode" width="100%"> | <img src="https://via.placeholder.com/600x350.png?text=Dark+Mode+Charts" alt="Dark Mode" width="100%"> |
+| <img src="https://github.com/user-attachments/assets/e2aa49c6-9f99-471a-9066-5c9adaf540a8" alt="Light Mode" width="100%"> | <img src="https://github.com/user-attachments/assets/bcdd775b-4769-4e93-a566-1b1c03427d42" alt="Dark Mode" width="100%"> |
 
 ---
+
+
 
 ## 🚀 How to Run
 
@@ -102,6 +104,4 @@ Since this project uses vanilla technologies, you don't need `npm` or a build pr
 ```text
 Smart-Expense-Tracker-JS/
 ├── index.html       # The main structure and UI
-├── style.css        # (Inline in HTML) Custom styling and themes
-├── script.js        # (Inline in HTML) Logic, Chart.js config, Storage
 └── README.md        # Documentation
